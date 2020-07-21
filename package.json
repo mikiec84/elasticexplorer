@@ -34,7 +34,7 @@
     "elasticitems": "^1.0.10",
     "express": "^4.16.2",
     "js-yaml": "^3.10.0",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.19",
     "nunjucks": "^3.0.1",
     "urijs": "^1.19.0",
     "winston": "^2.4.0"
